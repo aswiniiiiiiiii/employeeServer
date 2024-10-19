@@ -1,0 +1,53 @@
+{
+  "employee": [
+    {
+      "id": "80c7",
+      "empId": "2345",
+      "username": "Harry Json",
+      "email": "harryjson45@gmail.com",
+      "status": "Full-time"
+    },
+    {
+      "id": "f51a",
+      "empId": "2346",
+      "username": "Meladin",
+      "email": "meladin67@gmail.com",
+      "status": "Intern"
+    },
+    {
+      "id": "d2ac",
+      "empId": "2347",
+      "username": "Ram",
+      "email": "ram78@gmail.com",
+      "status": "Full-time"
+    },
+    {
+      "id": "0a2c",
+      "empId": "2348",
+      "username": "Rose",
+      "email": "rose67@gmail.com",
+      "status": "Intern"
+    },
+    {
+      "id": "67d4",
+      "empId": "2349",
+      "username": "Anjana",
+      "email": "anjana56@gmail.com",
+      "status": "Full-time"
+    },
+    {
+      "id": "1a61",
+      "empId": "2350",
+      "username": "Angel",
+      "email": "angel79@gmail.com",
+      "status": "Full-time"
+    },
+    {
+      "empId": "2351",
+      "username": "Albert Roy",
+      "email": "albertroy34@gmail.com",
+      "status": "Full-time",
+      "id": "YA_i4wQ"
+    }
+  ]
+}
